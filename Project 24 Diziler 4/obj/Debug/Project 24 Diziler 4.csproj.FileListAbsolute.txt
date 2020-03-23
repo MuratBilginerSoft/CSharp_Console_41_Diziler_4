@@ -1,0 +1,6 @@
+C:\Users\mrt_b\source\repos\Project 24 Diziler 4\Project 24 Diziler 4\bin\Debug\Project 24 Diziler 4.exe.config
+C:\Users\mrt_b\source\repos\Project 24 Diziler 4\Project 24 Diziler 4\bin\Debug\Project 24 Diziler 4.exe
+C:\Users\mrt_b\source\repos\Project 24 Diziler 4\Project 24 Diziler 4\bin\Debug\Project 24 Diziler 4.pdb
+C:\Users\mrt_b\source\repos\Project 24 Diziler 4\Project 24 Diziler 4\obj\Debug\Project 24 Diziler 4.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\Project 24 Diziler 4\Project 24 Diziler 4\obj\Debug\Project 24 Diziler 4.exe
+C:\Users\mrt_b\source\repos\Project 24 Diziler 4\Project 24 Diziler 4\obj\Debug\Project 24 Diziler 4.pdb
